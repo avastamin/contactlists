@@ -7,7 +7,7 @@ class App extends Component {
 
   state = {
      contacts :[
-      {
+       {
         "id": "ruhul",
         "name": "Ruhul Amin",
         "email": "r_amin105@yahoo.com",
